@@ -5,4 +5,4 @@ see the website https://fatnerd.github.io/wine_recipe/
 
 with hover css effect
 
-![Alt Text]pic/winerecipe.gif)
+![image](pic/winerecipe.gif)
