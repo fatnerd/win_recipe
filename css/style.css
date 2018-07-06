@@ -125,7 +125,7 @@ body{
 }
 .cover{
 	  width: 0px;
-	  height: 400px;
+	  height: 405px;
 	  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 	  position: absolute;
 	  top: 0;
