@@ -26,7 +26,7 @@ body{
 	text-align: center;
 
 }
-/*method1*/
+/*method1 : work well on firefox,edge*/
 .fullscreen-video-wrap{
   position:absolute;
   top:0;
@@ -41,7 +41,7 @@ body{
   min-width:100%;
 }
 
-/*method2
+/*method2: only work on chrome
 #myVideo {
     position: absolute;
     left: 0;
