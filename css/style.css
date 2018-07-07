@@ -121,6 +121,8 @@ body{
   margin-top: 8px;
   vertical-align: middle;
   width:expression(document.body.clientWidth<500?"400px":"auto");
+  height:expression(document.body.clientHeight>400?"400px":"auto");
+  height:expression(document.body.clientHeight<400?"400px":"auto");
   height: auto;
   max-width: 100%;
 
